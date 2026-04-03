@@ -1,1 +1,8 @@
-#coming soon
+date,product,category,price,quantity
+2026-01-01,Milk,Dairy,5,10
+2026-01-01,Bread,Bakery,3,20
+2026-01-02,Eggs,Dairy,4,15
+2026-01-02,Chicken,Meat,12,5
+2026-01-03,Milk,Dairy,5,8
+2026-01-03,Bread,Bakery,3,25
+
